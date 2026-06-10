@@ -16,8 +16,13 @@
 - `docs/06-data-model.md`：本地数据结构草案。
 - `docs/07-monetization.md`：免费版、Pro、定价与转化策略。
 - `docs/08-roadmap.md`：版本路线图。
+- `docs/09-technical-architecture.md`：iOS 技术架构建议。
+- `docs/10-app-store-listing.md`：App Store 上架文案与素材规划。
 - `research/01-app-store-ranking-notes.md`：榜单依据与选题判断。
+- `project/01-mvp-task-breakdown.md`：MVP 开发任务拆分。
+- `project/02-sprint-plan.md`：两周开发节奏。
 - `design/README.md`：后续设计资产放置说明。
+- `design/wireframes.md`：低保真页面说明。
 
 ## 当前建议
 
